@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CalculadoraBasica/ViewController.swift"
+            timestampString = "578191145.906721"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalculadoraBasica.ViewController.view3.getter : CalculadoraBasica.MyStackView"
+                  moduleName = "CalculadoraBasica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/martinez/Documents/developer/CalculadoraBasica/CalculadoraBasica/ViewController.swift"
+                  timestampString = "578181724.673609"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalculadoraBasica.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CalculadoraBasica.ViewController"
+                  moduleName = "CalculadoraBasica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/martinez/Documents/developer/CalculadoraBasica/CalculadoraBasica/ViewController.swift"
+                  timestampString = "578181724.677047"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalculadoraBasica.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CalculadoraBasica.ViewController&gt;"
+                  moduleName = "CalculadoraBasica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/martinez/Documents/developer/CalculadoraBasica/CalculadoraBasica/ViewController.swift"
+                  timestampString = "578181724.678816"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
